@@ -27,11 +27,11 @@ jobs:
 
       - name: Get repository name
         id: vars
-        run: echo "::set-output name=repo::${GITHUB_REPOSITORY}"
+        run: echo "repo=${GITHUB_REPOSITORY}" >> $GITHUB_ENV
 
       - name: Replace placeholder with repo URL
         run: |
-          repo_url=${{ steps.vars.outputs.repo }}
+          repo_url=${{ env.repo }}
           sed -i "s|{{repo_url}}|${repo_url}|g" README.md
       - name: Commit changes
         run: |
