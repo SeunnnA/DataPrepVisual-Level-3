@@ -29,8 +29,7 @@ jobs:
       - name: Replace placeholder with repo URL
         run: |
           repo_url=${{ steps.vars.outputs.repo }}
-          sed -i "s/{{repo_url}}/${repo_url}/g" README.md
-
+          sed -i "s|{{repo_url}}|${repo_url}|g" README.md
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
