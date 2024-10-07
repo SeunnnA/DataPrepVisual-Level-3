@@ -29,6 +29,6 @@ See something in the docs that is unclear or think that this level 3 could use a
 </a> -->
 
 <!-- PUT GOLD BADGE OF SKILL HERE -->
-<div style="display: flex; align-items: center; justify-content: center;">
+<!-- <div style="display: flex; align-items: center; justify-content: center;">
 <img src="https://pngimg.com/d/gold_medal_PNG28.png" width='200'/>
-</div>
+</div> -->
