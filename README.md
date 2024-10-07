@@ -21,7 +21,7 @@ It may take Learning Ambassadors up to 1-2 weeks to grade your solution and give
 See something in the docs that is unclear or think that this level 3 could use any more requirements? Please create a PR that follows the `open-src.md` template and we will get back to you!
 
 <a href="https://contrib.rocks">
-  <img src="https://contrib.rocks/image?repo=BU-Spark-Learning-Ambassadors/paths-level3-template" />
+  <img src="https://contrib.rocks/image?repo={{repo_url}}/paths-level3-template" />
 </a>
 
 <!-- <a href="https://contrib.rocks">
