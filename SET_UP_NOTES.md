@@ -1,1 +1,0 @@
-Things to do:\n-replace <skill> with name of track/n-fill in requirements\n-add summary to top of README.md\n-add picture of badge to bottom of README (uncomment existing code and add to <img src= />)
