@@ -18,7 +18,7 @@ jobs:
       - name: Check if first run flag exists
         id: check-flag
         run: |
-          if [ -f ".first_run_completed" ]; then
+          if [ -f "SET_UP_NOTES.md" ]; then
             echo "First run already completed. Exiting."
             exit 0
           else
@@ -43,7 +43,8 @@ jobs:
 
       - name: Create first run flag
         run: |
-          touch .first_run_completed
-          git add .first_run_completed
-          git commit -m "Add first run completion flag"
+          touch SET_UP_NOTES.md
+          echo "Things to do:\n-replace <skill> with name of track/n-fill in requirements\n-add summary to top of README.md\n-add picture of badge to bottom of README (uncomment existing code and add to <img src= />)" > SET_UP_NOTES.md
+          git add SET_UP_NOTES.md
+          git commit -m "Add first run completion flag (SET_UP_NOTES.md)"
           git push
