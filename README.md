@@ -7,9 +7,9 @@ In this challenge you will build an app using < skill > that ... to demonstrate 
 
 In order for the project to be considered "completed", it must complete the following requirements:
 
-1. **< Req #1 Name >:** fetches data from an API and renders the results in a table with paging
-2. **< Req #2 Name >:** uses `useState()` and `useEffect()` to manage variable changes and accessing API
-3. **< Req #3 Name >:** hides all API Keys and secrets in a `.env` file and uses a `.gitignore` to prevent all unneccessary files from being added to the GitHub Repository
+1. **< Req 1 Name >:** fetches data from an API and renders the results in a table with paging
+2. **< Req 2 Name >:** uses `useState()` and `useEffect()` to manage variable changes and accessing API
+3. **< Req 3 Name >:** hides all API Keys and secrets in a `.env` file and uses a `.gitignore` to prevent all unneccessary files from being added to the GitHub Repository
 
 ## Submission
 
