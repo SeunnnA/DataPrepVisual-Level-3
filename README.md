@@ -1,7 +1,7 @@
 # < SKILL > Level 3
 
 In this challenge you will build an app using < skill > that ... to demonstrate your skills in < skill >.
-OWEN
+
 
 ## Requirements
 
