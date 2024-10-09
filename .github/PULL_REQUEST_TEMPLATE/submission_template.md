@@ -2,7 +2,7 @@
 
 **Full Name:**
 
-**BU Email:**asdsad
+**BU Email:**
 
 **Graduation Year:**
 
@@ -18,7 +18,7 @@ Explain in 1-2 sentences what your project achieves / does.
 
 Please make sure that you have completed the requirements of the project.
 
-- [] < Req #1 >
+- [ ] < Req #1 >
 - [ ] < Req #2 >
 - [ ] < Req #3 >
 
