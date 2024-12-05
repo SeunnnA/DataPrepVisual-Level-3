@@ -9,8 +9,6 @@ You will begin by acquiring a complex, multi-dimensional dataset from a public s
 - Create visualizations like scatter matrix plots, histograms, and heatmaps to illustrate insights and data patterns.
 - Include at least one creative visualization that uncovers unique trends or relationships in the dataset.
 
-This step ensures you fully understand the data and its potential challenges before moving on to preprocessing.
-
 ---
 
 ### 2. **Data Preparation**
@@ -19,8 +17,6 @@ Next, prepare the dataset by thoroughly cleaning and preprocessing it:
 - Normalize or standardize numerical features for consistency.
 - Encode categorical variables using suitable techniques, such as one-hot or label encoding.
 - Engineer at least two new features to enrich the dataset and make it more insightful.
-
-Provide before-and-after summaries to demonstrate the impact of your preprocessing work. 
 
 ---
 
