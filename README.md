@@ -31,7 +31,7 @@ Each visualization should include clear labels, annotations, and insights that c
 ---
 
 ### 4. **Insights, Reflection, and Communication**
-Summarize your findings in a concise report:
+Summarize your findings in a concise pdf report:
 - Highlight key insights gained from your visualizations and explain how they help interpret the dataset.
 - Compare two data visualization tools or libraries (e.g., Matplotlib vs. Plotly) to evaluate their pros and cons for this project.
 - Discuss limitations of the data and visualizations, propose improvements, and reflect on challenges you encountered during the project.
