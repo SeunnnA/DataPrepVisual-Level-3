@@ -6,16 +6,14 @@ In this challenge, you will build and analyze your own visualizations using data
 
 ### 1. **Data Acquisition and Exploration**
 You will begin by acquiring a complex, multi-dimensional dataset from a public source or by merging multiple datasets. Perform exploratory data analysis (EDA) to identify key characteristics of the data, such as missing values, relationships among features, and potential outliers.  
-- Create visualizations like scatter matrix plots, histograms, and heatmaps to illustrate insights and data patterns.
+- Create simple visualizations to illustrate insights and data patterns.
 - Include at least one creative visualization that uncovers unique trends or relationships in the dataset.
 
 ---
 
 ### 2. **Data Preparation**
 Next, prepare the dataset by thoroughly cleaning and preprocessing it:
-- Handle missing values using imputation or other appropriate methods.
-- Normalize or standardize numerical features for consistency.
-- Encode categorical variables using suitable techniques, such as one-hot or label encoding.
+- Handle missing values, normalize or standardize numerical features, encode categorical variables, etc.
 - Engineer at least two new features to enrich the dataset and make it more insightful.
 
 ---
@@ -25,9 +23,6 @@ Create a set of advanced visualizations to gain deeper insights into your data. 
 1. Develop a **clustered scatter plot** to analyze groupings or patterns in multi-dimensional data.
 2. Create a **3D visualization** to explore relationships among three continuous variables or other features requiring spatial depth.
 3. Build a **geospatial visualization** (e.g., a choropleth or heatmap) to analyze location-based insights.
-
-Each visualization should include clear labels, annotations, and insights that could not be easily extracted from the raw data. 
-
 ---
 
 ### 4. **Insights, Reflection, and Communication**
