@@ -1,6 +1,6 @@
 # Data Preparation and Visualization Level 3 
 
-In this challenge, you will build an app using data preparation and visualization techniques that transforms raw, multi-dimensional datasets into actionable insights, demonstrating your skills in data cleaning, preprocessing, and advanced visualization development.
+In this challenge, you will build and analyze your own visualizations using data preparation and techniques that transforms raw, multi-dimensional datasets into actionable insights, demonstrating your skills in data cleaning, preprocessing, and advanced visualization development.
 
 ## Requirements:
 
@@ -35,7 +35,6 @@ Summarize your findings in a concise pdf report:
 - Highlight key insights gained from your visualizations and explain how they help interpret the dataset.
 - Compare two data visualization tools or libraries (e.g., Matplotlib vs. Plotly) to evaluate their pros and cons for this project.
 - Discuss limitations of the data and visualizations, propose improvements, and reflect on challenges you encountered during the project.
-
 
 ---
 
